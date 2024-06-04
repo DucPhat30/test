@@ -1,0 +1,16 @@
+export const cars = [
+    {id: 1, name: "Audi", imageLink:"https://www.ozroamer.com.au/wp-content/uploads/2020/04/2020-Audi-Q8-S-Line-14-exterior.jpg", price:"4651" },
+    {id: 2, name: "Lambogini", imageLink:"https://s1.paultan.org/image/2019/03/Lamborghini-Aventador-SVJ-Roadster-5.jpg", price:"12346" },
+    {id: 3, name: "Sedan", imageLink: "https://storage.googleapis.com/f1-cms/2019/11/278381f7-20191114_032815.jpg", price: "46215"},
+    {id: 4, name: "HatchBack", imageLink: "https://storage.googleapis.com/f1-cms/2019/11/d9cb624a-20191114_032845.jpg", price: "4578941"},
+    {id: 5, name: "SUV", imageLink: "https://storage.googleapis.com/f1-cms/2019/11/8fc84a87-20191114_032908.jpg", price: "4578412"},
+    {id: 6, name: "Crossover", imageLink: "https://storage.googleapis.com/f1-cms/2019/11/04c9702a-20191114_033014.jpg", price: "456781"},
+    {id: 7, name: "Minivan", imageLink: "https://storage.googleapis.com/f1-cms/2019/11/52284680-20191111_100953.jpg", price: "123487"},
+    {id: 8, name: "Coupe", imageLink: "https://storage.googleapis.com/f1-cms/2019/11/f222c0da-20191114_033108.jpg", price: "12481"},
+    {id: 9, name: "Convertible", imageLink: "https://storage.googleapis.com/f1-cms/2019/11/be11a216-20191114_033123.jpg", price: "12481"},
+    {id: 10, name: "Pickup", imageLink: "https://storage.googleapis.com/f1-cms/2019/11/5f81a147-20191114_033037.jpg", price: "12481"},
+    {id: 11, name: "Limousine", imageLink: "https://storage.googleapis.com/f1-cms/2019/11/f8321807-20191114_033140.jpg", price: "12481"},
+    {id: 12, name: "Kia Morning", imageLink: "https://storage.googleapis.com/f1-cms/2019/11/64a5a9cb-20191114_033200.jpg", price: "12481"},
+    {id: 13, name: "Suzuki Swift", imageLink: "https://storage.googleapis.com/f1-cms/2019/11/fc338add-20191114_033216.jpg", price: "12481"},
+    {id: 14, name: "Suzuki Swift", imageLink: "https://storage.googleapis.com/f1-cms/2019/11/fc338add-20191114_033216.jpg", price: "12481"},   
+ ];
